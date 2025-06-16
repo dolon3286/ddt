@@ -16,7 +16,7 @@ atmos-save-folder: /storage/emulated/0/Music/
 max-memory-limit: 256 # MB
 decrypt-m3u8-port: "127.0.0.1:10020"
 get-m3u8-port: "127.0.0.1:20020"
-get-m3u8-from-device: true
+get-m3u8-from-device: false
 #set 'all' to retrieve all m3u8, and set 'hires' to only detect hires m3u8.
 get-m3u8-mode: hires # all hires
 aac-type: aac-lc # aac-lc aac aac-binaural aac-downmix
