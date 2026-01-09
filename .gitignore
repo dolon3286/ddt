@@ -6,4 +6,6 @@
 !go.sum
 !main.go
 !README.md
+!bot/
+!bot/**
 !utils/*
